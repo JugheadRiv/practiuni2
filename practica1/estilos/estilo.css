@@ -1,0 +1,12 @@
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  text-decoration: underline;
+  text-transform: uppercase;
+  color: #ff0000
+
+}
+body{
+   background-color: lightgreen;
+}
